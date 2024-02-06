@@ -39,3 +39,5 @@ nosetests.xml
 _build
 _static
 _templates
+
+.pybuild/
