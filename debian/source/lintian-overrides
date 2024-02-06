@@ -1,0 +1,5 @@
+python-decorator source: file-without-copyright-information
+python-decorator source: no-debian-changes
+python-decorator source: source-contains-prebuilt-windows-binary
+python-decorator source: source-is-missing
+python-decorator source: source-package-encodes-python-version
